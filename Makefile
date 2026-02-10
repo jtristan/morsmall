@@ -31,3 +31,6 @@ clean:
 	dune clean
 	rm -f bin lib doc
 	rm -f morsmall_test_report_*.org
+
+install-deps:
+	opam install . --locked --deps-only -y
