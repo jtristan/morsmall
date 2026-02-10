@@ -13,7 +13,7 @@ depends: [
   "base-threads" {= "base"}
   "base-unix" {= "base"}
   "cppo" {= "1.8.0"}
-  "dune" {= "2.9.3"}
+  "dune" {= "3.21.0"}
   "menhir" {= "20210419"}
   "menhirLib" {= "20210419"}
   "menhirSdk" {= "20210419"}
